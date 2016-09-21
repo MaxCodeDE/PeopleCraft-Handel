@@ -1,0 +1,12 @@
+name: PeopleCraft-Handel
+autohr: MaxCode
+version: 1.0
+main: me.MaxCode.PeopleCraftHandel.PeopleCraftHandel
+
+commands:
+     handel:
+          usage:
+          default: op
+     handelv:
+          usage:
+          default: op
